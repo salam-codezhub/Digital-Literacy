@@ -1,0 +1,9 @@
+Cybercrime Case Study: UPI Payment Fraud
+
+UPI payment fraud is a common type of cybercrime in India where fraudsters trick users into sending money through digital payment apps.
+It usually happens when a scammer contacts a victim via phone call, message, or social media pretending to be a bank official, delivery agent, or customer support executive.
+The fraudster sends a fake payment request or a malicious link and convinces the victim to approve it by saying it is required to receive money or complete a transaction. 
+In reality, instead of receiving money, the victim ends up sending money to the scammer. Sometimes, fraudsters also ask for OTPs or PINs, which should never be shared.
+Students, elderly people, and individuals unfamiliar with digital payments are the most common targets. 
+The consequences include financial loss, stress, and sometimes identity theft if personal details are leaked.
+This type of fraud is increasing due to the growing use of digital payments. Awareness and caution are essential to avoid becoming a victim.
